@@ -12,6 +12,7 @@ sleep 2x:
 ```{r sleep2}
 for (i in 1:3000){
     print(i)
+    flush.console()
     Sys.sleep(30)
 }
 ```
