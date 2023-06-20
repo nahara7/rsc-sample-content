@@ -16,3 +16,9 @@ for (i in 1:10){
     Sys.sleep(30)
 }
 ```
+```{r one}
+    print(1)
+```
+```{r two}
+    print(2)
+```
